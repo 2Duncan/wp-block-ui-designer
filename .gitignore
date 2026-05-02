@@ -1,0 +1,9 @@
+# Ignore API Keys and local config
+wp-config-sample.php
+api-key.php
+.env
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
